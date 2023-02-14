@@ -1,0 +1,7 @@
+﻿namespace SpeedRacing
+{
+    class SpeedRacing
+    {
+
+    }
+}

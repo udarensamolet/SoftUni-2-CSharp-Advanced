@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.EvenLines", "EvenLines\01.EvenLines.csproj", "{8659270E-8250-464B-A5F6-60032464B928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.LineNumbers", "LineNumbers\02.LineNumbers.csproj", "{EC6FA48F-87E4-421D-B169-BA27A125F194}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.WordCount", "WordCount\03.WordCount.csproj", "{22F6D917-C31C-4934-ABAD-F8ED4A3F3E5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CopyBinaryFile", "CopyBinaryFile\04.CopyBinaryFile.csproj", "{A610A4F7-3D11-4A40-A295-75D7B71977AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DirectoryTraversal", "DirectoryTraversal\05.DirectoryTraversal.csproj", "{C6059B07-EE77-42DC-AF82-3C41217E065B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ZipAndExtract", "ZipAndExtract\06.ZipAndExtract.csproj", "{10C12BE5-D0A5-4777-9285-E3CC18058243}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.CopyDirectory", "CopyDirectory\07.CopyDirectory.csproj", "{077C272D-0567-4568-B7BE-F91F822C69C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8659270E-8250-464B-A5F6-60032464B928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8659270E-8250-464B-A5F6-60032464B928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8659270E-8250-464B-A5F6-60032464B928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8659270E-8250-464B-A5F6-60032464B928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC6FA48F-87E4-421D-B169-BA27A125F194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6FA48F-87E4-421D-B169-BA27A125F194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6FA48F-87E4-421D-B169-BA27A125F194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6FA48F-87E4-421D-B169-BA27A125F194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22F6D917-C31C-4934-ABAD-F8ED4A3F3E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F6D917-C31C-4934-ABAD-F8ED4A3F3E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F6D917-C31C-4934-ABAD-F8ED4A3F3E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F6D917-C31C-4934-ABAD-F8ED4A3F3E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A610A4F7-3D11-4A40-A295-75D7B71977AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A610A4F7-3D11-4A40-A295-75D7B71977AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A610A4F7-3D11-4A40-A295-75D7B71977AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A610A4F7-3D11-4A40-A295-75D7B71977AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6059B07-EE77-42DC-AF82-3C41217E065B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6059B07-EE77-42DC-AF82-3C41217E065B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6059B07-EE77-42DC-AF82-3C41217E065B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6059B07-EE77-42DC-AF82-3C41217E065B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10C12BE5-D0A5-4777-9285-E3CC18058243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C12BE5-D0A5-4777-9285-E3CC18058243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C12BE5-D0A5-4777-9285-E3CC18058243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C12BE5-D0A5-4777-9285-E3CC18058243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{077C272D-0567-4568-B7BE-F91F822C69C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{077C272D-0567-4568-B7BE-F91F822C69C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{077C272D-0567-4568-B7BE-F91F822C69C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{077C272D-0567-4568-B7BE-F91F822C69C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {556F0E55-6AEB-4858-B3FC-180E8A6C6EED}
+	EndGlobalSection
+EndGlobal
